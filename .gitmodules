@@ -1,0 +1,12 @@
+[submodule "generics"]
+	path = generics
+	url = git@github.com:ismaelbalaghni/go-generics-tutorial.git
+[submodule "fuzz"]
+	path = fuzz
+	url = git@github.com:ismaelbalaghni/go-fuzz-tutorial.git
+[submodule "gowiki"]
+	path = gowiki
+	url = git@github.com:ismaelbalaghni/go-gowiki-tutorial.git
+[submodule "web-service-gin"]
+	path = web-service-gin
+	url = git@github.com:ismaelbalaghni/go-web-service-gin.git
